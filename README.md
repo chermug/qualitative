@@ -1,0 +1,4 @@
+qualitative
+===========
+
+CHERMUG qualitative games
