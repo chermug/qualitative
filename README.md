@@ -14,6 +14,15 @@ Game levels
 
 The game is structured into three levels of difficulty which correspond to the 3 stages of the narrative. Level 1 is the introductory level where students develop and demonstrate their understanding of key differences between quantitative and qualitative approaches to research. Levels 2 and 3 focus on specific research studies. Players are presented with a specific research question and an account of the background to a study and they are required to carry out exercises in which they have to select an appropriate data collection method and suitable sample of participants to take part in the proposed study. They are also required to carry out some simple qualitative coding. At level 2 players are given supportive feedback about their selections and coding as they proceed through the activities. At level 3 students are encouraged to adopt a more exploratory approach and they only receive feedback at the end of the game when they have taken part in all the activities.
 
+
+Narrative  
+-----------
+The qualitative game uses a narrative concerning a student who is acquiring expertise in qualitative research and who is challenged with being accepted into a research group. The game informs the student that this process has three steps: 1) being prepared for a qualitative test 2) passing the qualitative test and 3) demonstrating his/her skills in qualitative design and analysis by preparing to submit an academic paper. Using a narrative to link the 3 levels increases the "game" feel and should increase student motivation and engagement to take part in the activities.
+
+
+If you want to know more about the qualitative game, check menu section "Support for games" where you can find [tutor guide](http://www.chermug.eu/wp-content/uploads/2014/02/staffsupportguidefin.pdf).
+
+
 Download Qualitative Games
 --------------------------
 
