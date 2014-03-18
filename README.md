@@ -17,7 +17,14 @@ The game is structured into three levels of difficulty which correspond to the 3
 Download Qualitative Games
 --------------------------
 
->The qualitative games present two diffetent delivery versions:
+> This is the first level of quoting.
+>
+> > This is nested blockquote.
+>
+> Back to the first level.
+
+
+The qualitative games present two diffetent delivery versions:
 
 •	Standalone: games as Java jar package ready to download and run in your machine. The only requiremente is to have Java 6 version (or higher) installed on your machine. The stand alone version will run in MAC, Windows and Unix platforms. 
 •	SCORM version: games as SCORM 2004 4th Edition packages ready to be included in SCORM compliant Learning Managemenet Systems (such us Moodle 2.x).
