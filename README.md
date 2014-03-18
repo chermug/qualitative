@@ -6,7 +6,9 @@ The qualitative games present two different delivery versions:
 *	**Standalone**: games as Java jar package ready to download and run in your machine. The only requirements is to have Java 6 version (or higher) installed on your machine. The stand alone version will run in MAC, Windows and Unix platforms. 
 *	**SCORM version**: games as SCORM 2004 4th Edition packages ready to be included in SCORM compliant Learning Management Systems (such us Moodle 2.x).
 
-Besides, games are available in English, Spanish, Dutch, Romanian, Finnish, French and German. The games are stored in this github repository. Here you can find a summary of all the links for each game:
+Please, find [here](http://www.chermug.eu/instruction-to-play-chermug-qualitative-games/) detailed instructions to run both Standalone and SCORM versions of the CHERMUG qualitative games and do no hesitate to visit [CHERMUG web site](http://www.chermug.eu) to know more about the project (student and tutor guides, cases uses, videos and more).
+
+Games are available in English, Spanish, Dutch, Romanian, Finnish, French and German. The games are stored in this github repository. Here you can find a summary of all the links for each game:
 
 |       |English                                       |Spanish                                      |Dutch 									   |Romanian 									 |
 |-------|----------------------------------------------|---------------------------------------------|---------------------------------------------|---------------------------------------------|
