@@ -22,17 +22,7 @@ The qualitative games present two different delivery versions:
 *	**Standalone**: games as Java jar package ready to download and run in your machine. The only requirements is to have Java 6 version (or higher) installed on your machine. The stand alone version will run in MAC, Windows and Unix platforms. 
 *	**SCORM version**: games as SCORM 2004 4th Edition packages ready to be included in SCORM compliant Learning Management Systems (such us Moodle 2.x).
 
-Besides, games are available in the following languages:
-* English
-* Spanish
-* Dutch
-* Romanian
-* Finnish
-* French
-* German
-
-
-The games are stored in this github repository. Nonetheless, you can find the links for each games here:
+Besides, games are available in English, Spanish, Dutch, Romanian, Finnish, French and German. The games are stored in this github repository. Here you can find a summary of all the links for each game:
 
 |       |English                                       |Spanish                                      |Dutch 									   |Romanian 									 |
 |-------|----------------------------------------------|---------------------------------------------|---------------------------------------------|---------------------------------------------|
@@ -61,7 +51,7 @@ The games are stored in this github repository. Nonetheless, you can find the li
 [en-sa-lv3]:https://github.com/chermug/qualitative/blob/master/English/STANDALONE/CHERMUG-Qualitative-Level3-STANDALONE-EN_en.zip?raw=true
 
 
-<!- Links for Spanish -->
+<!-- Links for Spanish -->
 <!-- SCORM -->
 [es-sc-lv1]:https://github.com/chermug/qualitative/blob/master/English/SCORM%20-%20SIGNED/CHERMUG-Qualitative-Level1-SCORM-ES_es-SIGNED.zip?raw=true
 [es-sc-lv2]:https://github.com/chermug/qualitative/blob/master/English/SCORM%20-%20SIGNED/CHERMUG-Qualitative-Level2-SCORM-ES_es-SIGNED.zip?raw=true
