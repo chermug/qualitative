@@ -13,7 +13,7 @@ Games are available in English, Spanish, Dutch, Romanian, Finnish, French and Ge
 |       |English                                       |Spanish                                      |Dutch 									   |Romanian 									 |
 |-------|----------------------------------------------|---------------------------------------------|---------------------------------------------|---------------------------------------------|
 |Level 1| [SCORM][en-sc-lv1] / [Standalone][en-sa-lv1] |[SCORM][es-sc-lv1] / [Standalone][es-sa-lv1] |[SCORM][nl-sc-lv1] / [Standalone][nl-sa-lv1] |[SCORM][ro-sc-lv1] / [Standalone][ro-sa-lv1] |
-|Level 2| [SCORM][en-sc-lv2] / [Standalone][en-sa-lv2] |[SCORM][es-sc-lv2] / [Standalone][es-sa-lv2] |[SCORM][nl-sc-lv1] / [Standalone][nl-sa-lv1] |[SCORM][ro-sc-lv1] / [Standalone][ro-sa-lv1] |
+|Level 2| [SCORM][en-sc-lv2] / [Standalone][en-sa-lv2] |[SCORM][es-sc-lv2] / [Standalone][es-sa-lv2] |[SCORM][nl-sc-lv2] / [Standalone][nl-sa-lv2] |[SCORM][ro-sc-lv2] / [Standalone][ro-sa-lv2] |
 |Level 3| [SCORM][en-sc-lv3] / [Standalone][en-sa-lv3] |[SCORM][es-sc-lv3] / [Standalone][es-sa-lv3] | 											   | 											 |
 
 
