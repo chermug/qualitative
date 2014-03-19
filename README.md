@@ -39,13 +39,13 @@ Games are available in English, Spanish, Dutch, Romanian, Finnish, French and Ge
 
 <!-- Links for Spanish -->
 <!-- SCORM -->
-[es-sc-lv1]:https://github.com/chermug/qualitative/blob/master/English/SCORM%20-%20SIGNED/CHERMUG-Qualitative-Level1-SCORM-ES_es-SIGNED.zip?raw=true
-[es-sc-lv2]:https://github.com/chermug/qualitative/blob/master/English/SCORM%20-%20SIGNED/CHERMUG-Qualitative-Level2-SCORM-ES_es-SIGNED.zip?raw=true
-[es-sc-lv3]:https://github.com/chermug/qualitative/blob/master/English/SCORM%20-%20SIGNED/CHERMUG-Qualitative-Level3-SCORM-ES_es-SIGNED.zip?raw=true
+[es-sc-lv1]:https://github.com/chermug/qualitative/blob/master/Spanish/SCORM%20-%20SIGNED/CHERMUG-Qualitative-Level1-SCORM-ES_es-SIGNED.zip?raw=true
+[es-sc-lv2]:https://github.com/chermug/qualitative/blob/master/Spanish/SCORM%20-%20SIGNED/CHERMUG-Qualitative-Level2-SCORM-ES_es-SIGNED.zip?raw=true
+[es-sc-lv3]:https://github.com/chermug/qualitative/blob/master/Spanish/SCORM%20-%20SIGNED/CHERMUG-Qualitative-Level3-SCORM-ES_es-SIGNED.zip?raw=true
 <!--  STANDALONE -->
-[es-sa-lv1]:https://github.com/chermug/qualitative/blob/master/English/STANDALONE/CHERMUG-Qualitative-Level1-STANDALONE-ES_es.zip?raw=true
-[es-sa-lv2]:https://github.com/chermug/qualitative/blob/master/English/STANDALONE/CHERMUG-Qualitative-Level2-STANDALONE-ES_es.zip?raw=true
-[es-sa-lv3]:https://github.com/chermug/qualitative/blob/master/English/STANDALONE/CHERMUG-Qualitative-Level3-STANDALONE-ES_es.zip?raw=true
+[es-sa-lv1]:https://github.com/chermug/qualitative/blob/master/Spanish/STANDALONE/CHERMUG-Qualitative-Level1-STANDALONE-ES_es.zip?raw=true
+[es-sa-lv2]:https://github.com/chermug/qualitative/blob/master/Spanish/STANDALONE/CHERMUG-Qualitative-Level2-STANDALONE-ES_es.zip?raw=true
+[es-sa-lv3]:https://github.com/chermug/qualitative/blob/master/Spanish/STANDALONE/CHERMUG-Qualitative-Level3-STANDALONE-ES_es.zip?raw=true
 
 <!--Links for Dutch -->
 <!-- SCORM -->
